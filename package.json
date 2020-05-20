@@ -1,0 +1,30 @@
+{
+  "name": "collinscart.ng",
+  "version": "1.0.0",
+  "description": "JAVASCRIPT FUN PROJECT WITH NODE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubbey/collinsCart.ng.git"
+  },
+  "keywords": [
+    "learning",
+    "javacript",
+    "node",
+    "express",
+    "mongodb",
+    "es6"
+  ],
+  "author": "zubbey innocent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubbey/collinsCart.ng/issues"
+  },
+  "homepage": "https://github.com/zubbey/collinsCart.ng#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
